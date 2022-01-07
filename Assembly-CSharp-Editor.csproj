@@ -54,6 +54,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Editor\Tests\AlwaySucceedTest.cs" />
+    <Compile Include="Assets\Editor\Tests\AlwaysFalseTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
